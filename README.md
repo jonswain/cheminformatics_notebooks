@@ -1,0 +1,1 @@
+Jupyter notebooks exploring chemimformatics, RDKit etc.
